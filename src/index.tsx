@@ -10,7 +10,7 @@ import i18n from "./translation";
 //const trackingIds = ["G-41RE98HS2L",'G-WK8FXW2821','G-SWV6BZ1KER','G-R6Q7DW4DDB','G-NX0QK8MD21','G-9FVCJH1EJ9'];
 
 //ReactGA.initialize("G-41RE98HS2L");
-ReactGA.initialize([{ trackingId: "G-41RE98HS2L"},{ trackingId: "G-WK8FXW2821"}];
+ReactGA.initialize([{ trackingId: "G-41RE98HS2L"},{ trackingId: "G-WK8FXW2821"}]);
 
 
 const App = () => (
